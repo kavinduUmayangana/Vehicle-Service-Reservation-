@@ -27,7 +27,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="flex flex-col md:flex-row gap-2 p-8">
+    <div className="flex flex-col md:flex-row gap-2 p-8 ">
     
       <div className="p-8 bg-white rounded-md shadow-md md:w-1/2">
         

@@ -14,10 +14,10 @@ const App = () => {
         <Element name="Home">
           <Home />
         </Element><br /><br />
-        <Element name="About"><br /><br /><br /><br />
+        <Element name="About"><br /><br />
           <About />
         </Element>
-        <Element name="Contact"><br /><br /><br /><br />
+        <Element name="Contact">
           <Contact />
         </Element>
         
