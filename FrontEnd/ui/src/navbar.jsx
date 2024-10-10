@@ -23,7 +23,7 @@ const Header = () => {
 >
       <nav className='items-center justify-between py-4 md:flex md:px-10 px-7'>
         <div className='font-bold text-2xl cursor-pointer flex items-center font-[Poppins] text-white'>
-          AutoKAVEE
+          AUTO KAVEE
         </div>
         <div onClick={toggleMenu} className='absolute text-2xl cursor-pointer right-8 top-3 md:hidden'>
           {open ? <CloseIcon /> : <DensityMediumIcon />}

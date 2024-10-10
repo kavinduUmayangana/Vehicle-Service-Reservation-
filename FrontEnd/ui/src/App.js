@@ -13,8 +13,8 @@ const App = () => {
         <Navbar/>
         <Element name="Home">
           <Home />
-        </Element>
-        <Element name="About" broder='20px'>
+        </Element><br /><br />
+        <Element name="About"><br /><br /><br /><br />
           <About />
         </Element>
         <Element name="Contact">
