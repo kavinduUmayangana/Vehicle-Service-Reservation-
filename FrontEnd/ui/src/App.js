@@ -17,7 +17,7 @@ const App = () => {
         <Element name="About"><br /><br /><br /><br />
           <About />
         </Element>
-        <Element name="Contact"><br /><br />
+        <Element name="Contact"><br /><br /><br /><br />
           <Contact />
         </Element>
         
