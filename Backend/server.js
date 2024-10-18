@@ -4,7 +4,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-  res.send('Welcome tfffffffffffffffffffffo my server!');
+  res.send('Welcome to my server!');
 });
 
 app.listen(8000, () => {
